@@ -1,14 +1,14 @@
-# 🛡️ Repositorio de Apuntes: Administrador de Redes Linux con Orientación en Ciberseguridad
+# Repositorio de Apuntes: Administrador de Redes Linux con Orientación en Ciberseguridad 🐧
 
-¡Hola! 👋 Bienvenido a mi base de conocimiento técnico y repositorio de "Cheat Sheets" (Hojas de Trucos). 
+¡Hola! 👋🤠 Bienvenido a mi base de conocimiento técnico y repositorio de "Cheat Sheets" (Hojas de Trucos). 
 
 Como **Técnico de Redes**, sé que la velocidad y precisión en la línea de comandos marcan la diferencia entre resolver un incidente en minutos o en horas. Este repositorio documenta mi proceso de aprendizaje y especialización continua en entornos Linux y Ciberseguridad.
 
-## 🎓 Sobre este Proyecto
+##  Sobre este Proyecto
 
 Este repositorio nace como complemento práctico de la **Certificacion de Administrador de Redes Linux con Orientación en Ciberseguridad**, dictado en conjunto por el **LPI (Linux Professional Institute)**, **Linux College** y **UTN**.
 
-📚 **Base Teórica y Referencia (LPI):** Además del material de la diplomatura, el contenido y los resúmenes de este repositorio están fuertemente alineados y comparten información con el libro **"How Linux Works, 3rd Edition"**. Dado que las certificaciones del LPI se basan en gran medida en la estructura de este libro, estos apuntes garantizan el seguimiento de los estándares más rigurosos de la industria.
+ **Base Teórica y Referencia (LPI):** Además del material de la diplomatura, el contenido y los resúmenes de este repositorio están fuertemente alineados y comparten información con el libro **"How Linux Works, 3rd Edition"**. Dado que las certificaciones del LPI se basan en gran medida en la estructura de este libro, estos apuntes garantizan el seguimiento de los estándares más rigurosos de la industria.
 
 ---
 
@@ -42,6 +42,7 @@ Los apuntes están divididos por temáticas clave. En cada carpeta encontrarás 
   * *Herramientas:* `/etc/passwd`, `/etc/shadow`, `usermod`, `chage`, `chmod`, `chown`, ACLs, `chattr`.
   * *Enfoque de Seguridad:* Auditoría de permisos SUID/SGID, ciclo de vida de contraseñas y atributos inmutables (`+i`, `+a`) para proteger evidencia forense de ataques Ransomware.
 
+Esto es solo el principio, seguire actualizando este repositorio constantemente!!
 ---
 
 ## 🤝 Contacto
