@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-">
+    <img src="./images/guia.png" width="160" height="160">
+  </a>
+  <h1 align="center">Guia do Desenvolvedor Back-end</h1>
+</p>
+
+
+
 # Repositorio de Apuntes: Administrador de Redes Linux con Orientación en Ciberseguridad 🐧
 
 ¡Hola! 👋🤠 Bienvenido a mi base de conocimiento técnico y repositorio de "Cheat Sheets" (Hojas de Trucos). 
