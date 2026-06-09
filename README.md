@@ -2,7 +2,6 @@
   <a href="https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-">
     <img src="./images/guia.png" width="160" height="160">
   </a>
-  <h1 align="center">Guia do Desenvolvedor Back-end</h1>
 </p>
 
 
