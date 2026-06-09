@@ -11,7 +11,11 @@ Este repositorio nace como complemento práctico de la **Certificacion de Admini
  **Base Teórica y Referencia (LPI):** Además del material de la diplomatura, el contenido y los resúmenes de este repositorio están fuertemente alineados y comparten información con el libro **"How Linux Works, 3rd Edition"**. Dado que las certificaciones del LPI se basan en gran medida en la estructura de este libro, estos apuntes garantizan el seguimiento de los estándares más rigurosos de la industria.
 
 ---
-
+## 🚀 Cómo navegar por este repositorio
+Dentro de cada carpeta encontrarás:
+1. Un archivo **`README.md`** con la síntesis.
+2. El archivo **`.pdf`** original adjunto como informe completo, que incluye el marco teórico, capturas de pantalla del entorno de pruebas (terminal) y una cheat sheet para tener a mano.
+   
 ## 📂 Índice de Contenidos
 
 Los apuntes están divididos por temáticas clave. En cada carpeta encontrarás un resumen  con enfoque en ciberseguridad y hardening, junto con una infografía visual (Cheat Sheet) de resumen rápido:
