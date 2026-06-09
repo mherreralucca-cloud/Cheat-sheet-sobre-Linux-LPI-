@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-">
-    <img src="./images/guia.png" width="160" height="160">
+    <img src="./images/may the source.png" width="160" height="160">
   </a>
 </p>
 
