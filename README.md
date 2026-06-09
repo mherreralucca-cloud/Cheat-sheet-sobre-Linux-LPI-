@@ -1,3 +1,4 @@
+<img width="374" height="500" alt="may the source" src="https://github.com/user-attachments/assets/895941dd-0784-4ad4-94b8-834c0463ce47" />
 <p align="center">
   <a href="https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-">
     <img src="images/may.png" width="160" height="160">
