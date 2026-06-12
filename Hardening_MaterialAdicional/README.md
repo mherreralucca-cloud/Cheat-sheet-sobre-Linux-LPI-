@@ -1,4 +1,4 @@
-# 📂 06 - Teoría de Hardening y Seguridad en Capa 7 (OWASP)
+# 📂 Teoría de Hardening y Seguridad en Capa 7 (OWASP)
 
 **Nota Arquitectónica:** *Aunque este módulo se aleja temporalmente de los comandos específicos de la terminal de Linux, los conceptos aquí documentados impactan de forma colateral y directa en el sistema operativo. El Hardening y la seguridad en Capa de Aplicación son principios universales y obligatorios en cualquier arquitectura de software y hardware (Defensa en Profundidad). Un servidor Linux perfectamente asegurado en su base es inútil si la aplicación web que hospeda es vulnerable.*
 
