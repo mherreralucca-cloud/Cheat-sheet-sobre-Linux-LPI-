@@ -97,6 +97,6 @@ Mas informacion en el .pdf adjunto, donde hay una guia practica a modo de ejempl
 
 Este repositorio funciona como una base de conocimiento abierta y en constante expansión. 
 
-* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual, querés expandir un vector del OWASP Top 10 o añadir herramientas al ecosistema defensivo, los *Pull Requests* son más que bienvenidos.
+* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual,los *Pull Requests* son más que bienvenidos.
 * 🐛 **Reportar anomalías:** Si tenés sugerencias o mejoras, sentite libre de abrir un *Issue*.
 * ⭐ **Apoyo al proyecto:** Si estos resúmenes y hojas de trucos te resultaron útiles para repasar, ¡dejame una estrella en el repositorio para apoyar el contenido Open Source!
