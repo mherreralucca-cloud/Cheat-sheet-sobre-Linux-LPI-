@@ -93,7 +93,7 @@ Existen distintas herramientas dependiendo de la precisión y velocidad requerid
 > **🛡️ Perspectiva de Ciberseguridad:** Es la base del análisis forense de logs. Con `grep` podés extraer direcciones IP de atacantes, buscar códigos HTTP específicos (403 o 500) o identificar firmas de malware dentro de archivos sospechosos.
 
 ---
-Mas informacion en el .pdf adjunto, donde hay una guia practica a modo de ejemplo y una hoja de trucos para siempre tener a mano.
+Mas informacion en el .pdf adjunto, donde hay una guia practica a modo de ejemplo. Ademas una hoja de trucos (.png adjunto) para siempre tener a mano.
 ---
 
 ## Feedback y Contribuciones
