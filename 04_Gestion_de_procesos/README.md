@@ -64,3 +64,5 @@ nohup nmap -p- -T2 localhost > escaneo.txt 2>&1 &
 5. `&`: Lo envía al fondo para recuperar la terminal instantáneamente.
 
 > **🛡️ Perspectiva de Ciberseguridad (Red Team / Blue Team):** `nohup` es el mejor amigo del auditor de seguridad. Permite dejar corriendo *scripts* de recolección de evidencia, escaneos de vulnerabilidades masivos o capturas de tráfico (`tcpdump`) en un servidor remoto, y desconectarse con seguridad sabiendo que el proceso sobrevivirá hasta completar su misión.
+>
+> Como es habitual dejo el .pdf con una guia mas extensa y una parte practica a modo de ejemplo. Para una referencia rápida de comandos, consulte la Cheat Sheet gráfica en esta misma carpeta.
