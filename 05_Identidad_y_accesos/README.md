@@ -6,7 +6,7 @@ Esta guía documenta los estándares de administración segura de cuentas, la an
 
 ---
 
-## 🗄️ 1. Identidad y Archivos Críticos (Anatomía)
+## 1. Identidad y Archivos Críticos (Anatomía)
 
 La base de datos de identidades locales no es mágica, es texto plano. El proceso de autenticación moderna se delega a **PAM** (*Pluggable Authentication Modules*), cuyos archivos residen en `/etc/pam.d/`. Sin embargo, la estructura de usuarios recae en dos archivos fundamentales:
 
@@ -28,7 +28,7 @@ Solo legible por root. Contiene las contraseñas encriptadas (generalmente bajo 
 
 ---
 
-## 👥 2. Gestión de Cuentas y Políticas
+## 2. Gestión de Cuentas y Políticas
 
 Crear y modificar usuarios requiere precaución para no otorgar permisos de más ni romper accesos existentes.
 
@@ -40,7 +40,7 @@ Crear y modificar usuarios requiere precaución para no otorgar permisos de más
 
 ---
 
-## 🔒 3. Sistema de Permisos Base y Máscaras (`umask`)
+## 3. Sistema de Permisos Base y Máscaras (`umask`)
 
 Linux utiliza un modelo de permisos de lectura (`r=4`), escritura (`w=2`) y ejecución (`x=1`). 
 *(Nota: En los directorios, el permiso `x` es obligatorio para poder hacer `cd` y entrar en ellos).*
@@ -53,7 +53,7 @@ Es el valor que "filtra" o resta permisos automáticamente al crear un archivo o
 
 ---
 
-## ⚠️ 4. Permisos Especiales (SUID y SGID)
+## 4. Permisos Especiales (SUID y SGID)
 
 Cuando el esquema tradicional (rwx) no es suficiente, entran en juego los permisos especiales, los cuales son extremadamente potentes y peligrosos:
 
@@ -64,7 +64,7 @@ Cuando el esquema tradicional (rwx) no es suficiente, entran en juego los permis
 
 ---
 
-## 💎 5. Hardening Defensivo: Atributos Inmutables (`chattr`)
+## 5. Hardening Defensivo: Atributos Inmutables (`chattr`)
 
 Incluso el usuario `root` tiene límites si se configuran atributos extendidos en el sistema de archivos. Esta es la última línea de defensa contra administradores negligentes o ataques avanzados (como Ransomware).
 
