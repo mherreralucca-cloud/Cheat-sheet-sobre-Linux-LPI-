@@ -76,3 +76,14 @@ Para alternar con precisión entre la administración del entorno y la inserció
 ---
 
 *Como es habitual dejo el .pdf con una guia mas extensa y una parte practica a modo de ejemplo. Para una referencia rápida de comandos, consulte la Cheat Sheet gráfica en esta misma carpeta.*
+
+---
+
+## Feedback y Contribuciones
+
+Este repositorio funciona como una base de conocimiento abierta y en constante expansión. 
+
+* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual,los *Pull Requests* son más que bienvenidos.
+* 🐛 **Reportar anomalías:** Si tenés sugerencias o mejoras, sentite libre de abrir un *Issue*.
+* ⭐ **Apoyo al proyecto:** Si estos resúmenes y hojas de trucos te resultaron útiles para repasar, ¡dejame una estrella en el repositorio para apoyar el contenido Open Source!
+
