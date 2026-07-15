@@ -108,6 +108,15 @@ tar -cJvf respaldo_seguro.tar.xz /var/www/html
 ```
 *Se recomiendan verificar siempre el almacenamiento de destino usando `df -h` antes de lanzar un proceso pesado de compresión XZ para evitar colapsar la swap o el espacio de logs durante la transacción.*
 
+---
 Como es habitual dejo el .pdf con una guia mas extensa. Para una referencia rápida de comandos, consulte la Cheat Sheet gráfica en esta misma carpeta.
+---
 
-Gracias por ver!!!
+## Feedback y Contribuciones
+
+Este repositorio funciona como una base de conocimiento abierta y en constante expansión. 
+
+* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual,los *Pull Requests* son más que bienvenidos.
+* 🐛 **Reportar anomalías:** Si tenés sugerencias o mejoras, sentite libre de abrir un *Issue*.
+* ⭐ **Apoyo al proyecto:** Si estos resúmenes y hojas de trucos te resultaron útiles para repasar, ¡dejame una estrella en el repositorio para apoyar el contenido Open Source!
+
