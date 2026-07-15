@@ -74,4 +74,14 @@ Incluso el usuario `root` tiene límites si se configuran atributos extendidos e
 > **🛡️ Perspectiva de Ciberseguridad (Blue Team):** Aplicar `chattr +a /var/log/auth.log` es un seguro de vida invaluable para la respuesta a incidentes. El log seguirá creciendo registrando accesos, pero si un intruso obtiene acceso root e intenta borrar su rastro (`rm -rf /var/log/*`), el sistema se lo impedirá, preservando la evidencia forense intacta.
 
 ---
-*Para una referencia visual ágil sobre gestión de grupos, permisos y usuarios, esta la Cheat Sheet gráfica incluida en este directorio.*
+Mas informacion en el .pdf adjunto, donde hay una guia practica a modo de ejemplo. Ademas una hoja de trucos (.png adjunto) para siempre tener a mano.
+---
+
+## Feedback y Contribuciones
+
+Este repositorio funciona como una base de conocimiento abierta y en constante expansión. 
+
+* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual,los *Pull Requests* son más que bienvenidos.
+* 🐛 **Reportar anomalías:** Si tenés sugerencias o mejoras, sentite libre de abrir un *Issue*.
+* ⭐ **Apoyo al proyecto:** Si estos resúmenes y hojas de trucos te resultaron útiles para repasar, ¡dejame una estrella en el repositorio para apoyar el contenido Open Source!
+
