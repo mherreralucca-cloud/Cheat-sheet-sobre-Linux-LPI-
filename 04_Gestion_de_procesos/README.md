@@ -65,4 +65,15 @@ nohup nmap -p- -T2 localhost > escaneo.txt 2>&1 &
 
 > **🛡️ Perspectiva de Ciberseguridad (Red Team / Blue Team):** `nohup` es el mejor amigo del auditor de seguridad. Permite dejar corriendo *scripts* de recolección de evidencia, escaneos de vulnerabilidades masivos o capturas de tráfico (`tcpdump`) en un servidor remoto, y desconectarse con seguridad sabiendo que el proceso sobrevivirá hasta completar su misión.
 >
-> Como es habitual dejo el .pdf con una guia mas extensa y una parte practica a modo de ejemplo. Para una referencia rápida de comandos, consulte la Cheat Sheet gráfica en esta misma carpeta.
+---
+Mas informacion en el .pdf adjunto, donde hay una guia practica a modo de ejemplo. Ademas una hoja de trucos (.png adjunto) para siempre tener a mano.
+---
+
+## Feedback y Contribuciones
+
+Este repositorio funciona como una base de conocimiento abierta y en constante expansión. 
+
+* 🤝 **¿Querés contribuir?** Si encontrás un error conceptual,los *Pull Requests* son más que bienvenidos.
+* 🐛 **Reportar anomalías:** Si tenés sugerencias o mejoras, sentite libre de abrir un *Issue*.
+* ⭐ **Apoyo al proyecto:** Si estos resúmenes y hojas de trucos te resultaron útiles para repasar, ¡dejame una estrella en el repositorio para apoyar el contenido Open Source!
+
