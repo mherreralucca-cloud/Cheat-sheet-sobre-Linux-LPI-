@@ -14,9 +14,9 @@ Como **Técnico de Redes**, sé que la velocidad y precisión en la línea de co
 
 ##  Sobre este Proyecto
 
-Este repositorio nace como complemento práctico de la **Certificacion de Administrador de Redes Linux con Orientación en Ciberseguridad**, dictado en conjunto por el **LPI (Linux Professional Institute)**, **Linux College** y **UTN**.
+Este repositorio nace como complemento práctico de la **Certificacion de Administrador de Redes Linux con Orientación en Ciberseguridad**, dictado en conjunto por el **LPI (Linux Professional Institute)**, y **Linux College**.
 
- **Base Teórica y Referencia (LPI):** Además del material de la diplomatura, el contenido y los resúmenes de este repositorio están fuertemente alineados y comparten información con el libro **"How Linux Works, 3rd Edition"**. Dado que las certificaciones del LPI se basan en gran medida en la estructura de este libro, estos apuntes garantizan el seguimiento de los estándares más rigurosos de la industria.
+ **Base Teórica y Referencia (LPI):** Además de la diplomatura, el contenido y los resúmenes de este repositorio están se basan y comparten información con el libro **"How Linux Works, 3rd Edition"**. Por que las certificaciones del LPI se basan en gran medida en la estructura de este libro, estos apuntes garantizan el seguimiento de los estándares actuales de la industria.
 
 ---
 ## 🚀 Cómo navegar por este repositorio
